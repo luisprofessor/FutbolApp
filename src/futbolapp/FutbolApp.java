@@ -16,6 +16,14 @@ public class FutbolApp {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //Actividad 1:Cargar 5 jugadores
+        //Actividad 2:Mostrar lo cargado
+        //Actividad 3:Mostrar los jugadores de la posición "Central"
+        //Actividad 4:Borrar uno de los jugadores
+        //Actividad 5:Mostrar lo cargado
+        //Actividad 6:Mostrar los jugadores que tengan más de 20 años.
+        
+        
     }
     
 }
