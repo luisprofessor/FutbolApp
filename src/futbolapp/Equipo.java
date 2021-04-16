@@ -17,14 +17,17 @@ public class Equipo {
     
     //Recibe un juegador y la posición en la que juega
     //Los jugadores deben quedar ordenados por dni de menor a mayor.
-    public void agregarJugador(Jugador jugador,String posición){
+    //devolviendo 1 si lo pudo agregar y -1 si no se pudo.
     
+    public int agregarJugador(Jugador jugador,String posición){
+    
+        return 0;
     }
     
-    //Visualizar por consola los datos de todos los jugadores y posiciones
-    //en las que juegan.
-    public void mostrarDatos(){
+   
+    public TreeMap<Jugador,String> getAll(){
     
+        return miembros;
     }
     
     //Dada una posicion, obtener todos los jugadores que juegan en esa posicion
